@@ -3,9 +3,9 @@ Predicting Heart Disease using Machine Learning This notebook looks into using v
 
 We're going to take the following approach:
 
-Problem definition
-Data
-Evaluation
-Features
-Modelling
-Experimentation
+1. Problem definition
+2. Data
+3. Evaluation
+4. Features
+5. Modelling
+6. Experimentation
